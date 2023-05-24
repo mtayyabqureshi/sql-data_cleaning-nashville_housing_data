@@ -1,5 +1,5 @@
 # Nashville Housing Data Cleaning with SQL
-As part of my portfolio, I have completed a project that demonstrates my data analysis and SQL skills. The project focuses on cleaning the Nashville housing dataset by utilizing SQL, and this repository houses the project.
+As part of my portfolio, I have completed a project that demonstrates my data analysis and SQL skills. The project focuses on cleaning the Nashville housing dataset by utilizing SQL skills and techniques.
 
 # Project Overview
 The data set for Nashville housing presented numerous irregularities, and the objective of this project was to address and rectify all of these irregularities. Microsoft SQL Server was utilized to query the dataset and extract valuable insights.
